@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BodyFluids</string>
+    <string name="app_title">Tår- och salivtest</string>
+    <string name="version">1.1</string>
+    <string name="with_chewing_gum">Med tuggummi: %.2f ml/min</string>
+    <string name="without_chewing_gum">Utan tuggummi: %.2f ml/min</string>
+</resources>
